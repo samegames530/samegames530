@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<img src="[https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Same%20Games)" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+everyone!;My+name+is...;SameGames!;Nice+to+meet+you!" alt="Typing SVG" /></a>
 
 <!--
